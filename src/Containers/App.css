@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'more_than_humanregular';
+    src: url('morethanhuman-webfont.woff2') format('woff2'),
+         url('morethanhuman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+    font-family: 'more_than_humanregular';
+    font-weight: 500;
+    color: #311432;
+    letter-spacing: 15px;
+}
