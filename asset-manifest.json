@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Robofriends/static/css/main.45ad45c5.css",
+    "main.js": "/Robofriends/static/js/main.c2edf4db.js",
+    "static/js/787.ab12092d.chunk.js": "/Robofriends/static/js/787.ab12092d.chunk.js",
+    "static/media/morethanhuman-webfont.woff": "/Robofriends/static/media/morethanhuman-webfont.10fa511d99874f097342.woff",
+    "static/media/morethanhuman-webfont.woff2": "/Robofriends/static/media/morethanhuman-webfont.89b0563e7f1763c61364.woff2",
+    "index.html": "/Robofriends/index.html",
+    "main.45ad45c5.css.map": "/Robofriends/static/css/main.45ad45c5.css.map",
+    "main.c2edf4db.js.map": "/Robofriends/static/js/main.c2edf4db.js.map",
+    "787.ab12092d.chunk.js.map": "/Robofriends/static/js/787.ab12092d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ad45c5.css",
+    "static/js/main.c2edf4db.js"
+  ]
+}
